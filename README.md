@@ -17,7 +17,7 @@ Idea from https://www.youtube.com/watch?v=AZ2TTMLBWw8
 
 ## moti
 Charged particle trajectories under eletric and magnetic field. Predicted using physics and tested
-with numerical integration (and derivation), displayed with matplotlib
+with numerical integration (and derivation), displayed with matplotlib <br>
 Open with jupyter-notebook
 ![image](moti/cicloide.png)
 ![image](moti/ciclotrone.png)
